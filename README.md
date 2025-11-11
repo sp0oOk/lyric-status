@@ -13,7 +13,7 @@ It uses the Spotify Web API, [LRCLib](https://lrclib.net/) for lyrics, and the D
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spotify-lyrics-discord.git
+   git clone https://github.com/sp0oOk/lyric-status.git
    cd spotify-lyrics-discord
    ```
 
